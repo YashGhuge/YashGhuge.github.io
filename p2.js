@@ -9,5 +9,6 @@ function calculateAmount() {
     } else {
       document.getElementById('result').innerText = 'Please enter valid numbers';
     }
+    
   }
   
